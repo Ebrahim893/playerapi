@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7mQOc2rqN07HGVnnhS3MIWRoPrrSuOFjtMrw8FjUls0=",
+  "Source": "playersgenerateapi",
+  "BasePath": "_content/playersgenerateapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
